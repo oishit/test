@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"python.pythonPath": "/Users/oishi/anaconda/envs/py35/bin/python"
+	}
 }
