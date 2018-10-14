@@ -12,7 +12,7 @@
 
 
 
-# 引数処理
+# 引数処理 test
 def get_args():
     parser = argparse.ArgumentParser(description='Convert from AquaMagic data to PNG file')
 
