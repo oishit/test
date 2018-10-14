@@ -26,6 +26,7 @@ def get_args():
 def main():
     print('hello')
     print('bye')
+    print('branch1')
 
 if __name__ == '__main__':
     main()
