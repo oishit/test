@@ -25,7 +25,7 @@ def get_args():
 # メイン関数
 def main():
     print('hello')
-    
+    print('bye')
 
 if __name__ == '__main__':
     main()
