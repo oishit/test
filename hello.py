@@ -6,7 +6,7 @@
 def main():
     print('hello')
     print('bye')
-    print('branch2')
+    print('branch')
 
 if __name__ == '__main__':
     main()
