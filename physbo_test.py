@@ -48,9 +48,9 @@ for i in range(len(x)):
 #%%
 # インデックス探索
 calculated_ids=[]
-for j in range(SS.shape[2]):
+for j in range(X.shape[0]):
     pos=1
-    for i in range(SS.shape[1]):
+    for i in range(X.shape[1]):
         pos*=(SS[:,i]==X[j,i])
     calculated_ids.append(np.where(pos==1)[0][0])
 calculated_ids=np.array(calculated_ids)
